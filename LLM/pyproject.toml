@@ -1,0 +1,10 @@
+[project]
+name = "LLM"
+version = "0.1.0"
+description = "LLM Models Interaction"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "dotenv>=0.9.9",
+    "openai>=2.11.0",
+]
